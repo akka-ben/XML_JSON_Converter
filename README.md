@@ -15,9 +15,9 @@ The goal is to compare a low-level pedagogical approach with an approach closer 
 
 ## 🎥 Video Demonstration
 
-👉 Click the link below to watch the project demo video:
+👉 Watch the project demo video:
 
-▶️ https://youtu.be/Jbo_x-zQVsc
+[![Watch the demo video](https://img.youtube.com/vi/Jbo_x-zQVsc/maxresdefault.jpg)](https://youtu.be/Jbo_x-zQVsc)
 
 ## ✨ Key Features
 
