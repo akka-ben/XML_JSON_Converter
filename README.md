@@ -161,13 +161,14 @@ L'application propose une interface simple et intuitive :
 ## 🎨 Captures d'écran
 
 ### Interface principale
-*[Show Image]*
+<img width="891" height="720" alt="Screenshot 2026-01-04 at 14 16 38" src="https://github.com/user-attachments/assets/775e618a-a3db-4d28-88d0-bf709bdee9a0" />
+
 
 ### Conversion XML → JSON
-*[Show Image]*
+<img width="923" height="792" alt="Screenshot 2026-01-04 at 14 17 46" src="https://github.com/user-attachments/assets/db6a523b-64c8-4fdc-bcb7-bef738e69a46" />
 
 ### Conversion JSON → XML
-*[Show Image]*
+<img width="923" height="792" alt="Screenshot 2026-01-04 at 14 18 13" src="https://github.com/user-attachments/assets/fe6318b2-17eb-40d5-8a87-393daf153786" />
 
 ## ⚠️ Limitations connues
 
