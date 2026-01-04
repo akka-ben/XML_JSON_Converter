@@ -13,6 +13,12 @@ This JavaFX application allows you to convert XML documents to JSON and vice ver
 
 The goal is to compare a low-level pedagogical approach with an approach closer to professional practices.
 
+## 🎥 Video Demonstration
+
+👉 Click the link below to watch the project demo video:
+
+▶️ https://youtu.be/Jbo_x-zQVsc
+
 ## ✨ Key Features
 
 - ✅ XML → JSON conversion
