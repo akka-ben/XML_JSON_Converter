@@ -88,8 +88,8 @@ XML_JSON_Converter/
 
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/votre-username/xml-json-converter.git
-   cd xml-json-converter
+   git clone https://github.com/akka-ben/XML_JSON_Converter.git
+   cd XML_JSON_Converter
    ```
 
 2. **Compiler le projet avec Maven**
