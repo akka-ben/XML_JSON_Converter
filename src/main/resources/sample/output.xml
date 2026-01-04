@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student id="1">
+        <name>Alice Martin</name>
+        <age>20</age>
+        <major>Computer Science</major>
+        <gpa>3.8</gpa>
+        <courses>
+            <course code="CS101">
+                <name>Introduction to Programming</name>
+                <credits>3</credits>
+            </course>
+            <course code="CS201">
+                <name>Data Structures</name>
+                <credits>4</credits>
+            </course>
+        </courses>
+    </student>
+    <student id="2">
+        <name>Bob Dupont</name>
+        <age>22</age>
+        <major>Mathematics</major>
+        <gpa>3.5</gpa>
+        <courses>
+            <course code="MATH301">
+                <name>Calculus III</name>
+                <credits>4</credits>
+            </course>
+            <course code="MATH401">
+                <name>Linear Algebra</name>
+                <credits>3</credits>
+            </course>
+        </courses>
+    </student>
+</students>

@@ -1,0 +1,48 @@
+{
+  "students": {
+    "student": [
+      {
+        "@id": "1",
+        "name": "Alice Martin",
+        "age": "20",
+        "major": "Computer Science",
+        "gpa": "3.8",
+        "courses": {
+          "course": [
+            {
+              "@code": "CS101",
+              "name": "Introduction to Programming",
+              "credits": "3"
+            },
+            {
+              "@code": "CS201",
+              "name": "Data Structures",
+              "credits": "4"
+            }
+          ]
+        }
+      },
+      {
+        "@id": "2",
+        "name": "Bob Dupont",
+        "age": "22",
+        "major": "Mathematics",
+        "gpa": "3.5",
+        "courses": {
+          "course": [
+            {
+              "@code": "MATH301",
+              "name": "Calculus III",
+              "credits": "4"
+            },
+            {
+              "@code": "MATH401",
+              "name": "Linear Algebra",
+              "credits": "3"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="1" category="programming">
+        <title>Java Programming</title>
+        <author>John Doe</author>
+        <year>2023</year>
+        <price currency="USD">49.99</price>
+        <available>true</available>
+    </book>
+    <book id="2" category="web">
+        <title>Web Development Fundamentals</title>
+        <author>Jane Smith</author>
+        <year>2024</year>
+        <price currency="EUR">39.99</price>
+        <available>true</available>
+    </book>
+    <book id="3" category="database">
+        <title>Database Design Patterns</title>
+        <author>Bob Johnson</author>
+        <year>2022</year>
+        <price currency="USD">59.99</price>
+        <available>false</available>
+    </book>
+</library>
