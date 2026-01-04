@@ -2,7 +2,7 @@
 
 Java application with JavaFX graphical interface for bidirectional XML/JSON conversion
 
-## 🗓 Deadline: January 5, 2026
+
 
 ## 🎯 Description
 
